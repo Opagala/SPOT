@@ -12,13 +12,13 @@ const slides = [
   },
   {
     type: "image",
-    src: claycityImg,
+    src: zetaspottowerImg,
     heading: "Empowering the Underserved",
     text: "Hotspots tailored to fit every community’s needs.",
   },
   {
     type: "image",
-    src: zetaspottowerImg,
+    src: claycityImg,
     heading: "Affordable Access for All",
     text: "Because everyone deserves a chance to connect.",
   },

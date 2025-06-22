@@ -7,13 +7,14 @@ const DeploymentSection = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10">
         {/* Left: Text */}
         <div className="md:w-1/2 text-center md:text-left">
-          <h2 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">
+          <h2 className="text-4xl font-bold text-[#002D6D] dark:text-white mb-4">
             DEPLO.<span className="text-[#1EA1F2]">YMENT</span>
           </h2>
-          <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-            Our deployment process is streamlined to ensure speed, efficiency, and security. 
-            With automated workflows and real-time monitoring, your solutions are always launched 
-            with confidence and precision. Empower your infrastructure with our modern deployment pipeline.
+          <p className="text-[#002D6D] font-bold  dark:text-gray-300 leading-relaxed">
+              Our hotspot deployment strategy ensures seamless internet connectivity across diverse environments. 
+            From site surveys and signal planning to the installation of access points and secure network configuration, 
+            we deliver reliable, high-speed internet access where it's needed most. Whether urban or rural, 
+            our solutions scale with your coverage goals, backed by real time monitoring and proactive support.
           </p>
         </div>
 

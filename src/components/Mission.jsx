@@ -3,9 +3,9 @@ import missionImg from "../assets/Mission.jpg";
 
 const Mission = () => {
   return (
-    <section className="py-16 px-6 bg-gray-50">
+    <section className="py-16 px-6 bg-white">
       <div className="max-w-5xl  mx-auto flex flex-col md:flex-row items-center gap-8">
-        <img src={missionImg} alt="Mission" className="w-full max-h-80 md:w-1/2 rounded-xl" />
+        <img src={missionImg} alt="Mission" className="w-full max-h-81 md:w-1/2 rounded-xl" />
         <div>
           <h2 className="text-3xl font-bold mb-4 text-[#1EA1F2]">Our Mission</h2>
           <p className="mt-6 text-lg/8 text-[#002D6D] font-semibold">

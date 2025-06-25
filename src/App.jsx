@@ -7,6 +7,7 @@ import Team from "./components/Team.jsx";
 import CTA from "./components/CTA.jsx";
 import Footer from "./components/Footer.jsx";
 import DeploymentSection from "./components/Deployment.jsx";
+import Awards from "./components/Awards.jsx";
 
 
 
@@ -17,6 +18,7 @@ function App(){
             <Hero />
             <Mission />
             <DeploymentSection />
+            <Awards />
             <Team />
             <CTA />
             <Footer />
